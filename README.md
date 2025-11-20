@@ -1,6 +1,8 @@
-# ISRO Nowcasting of Meteorological Satellite Images using AI/ML Techniques
+# MULTIMODAL DEEP LEARNING CNN-LSTM for CLIMATE FORCASTING USING OPTUNA
 
-![ISRO Logo](results/isro.svg)
+# Uses Conv2LSTM Model
+
+
 
 ## Output:
 
