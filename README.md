@@ -55,7 +55,6 @@ Output: T[n+1, n+6] (sequence of six future images)
 The software solution will be developed using the following technologies and frameworks:
 
 - **Python**: Used for data preprocessing and building the deep learning model.
-- **Flask**: A web framework used to encapsulate the model and provide dynamic functionality to users.
 - **ConvLSTM**: A deep learning method used to capture spatio-temporal patterns and learn long-term dependencies.
 
 ## Use Cases
@@ -68,9 +67,5 @@ The AI/ML-based software for nowcasting meteorological satellite images can be a
 
 ## References
 1. Xingjian Shi, Zhourong Chen, Hao Wang, Dit-Yan Yeung, Wai-kin Wong, and Wang-chun Woo. Convolutional LSTM network: A machine learning approach for precipitation nowcasting. In Twenty-Ninth Conference on Neural Information Processing Systems (NIPS), 2015.
-
----
-
-Please note that this README is a brief overview of the project. For detailed information on installation, usage, and contribution guidelines, please refer to the project documentation and source code.
 
 
